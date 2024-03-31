@@ -1,0 +1,13 @@
+.subtotal {
+  padding: 10px;
+}
+.checkout__button {
+  padding: 8px 5px;
+  margin: 5px;
+}
+
+/* @media screen and (width<768px) {
+  .subtotal {
+    font-size: 12px;
+  }
+} */
